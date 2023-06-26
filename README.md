@@ -40,7 +40,8 @@ How I wonder what you are!
 ## Q4
 - 試想有⼀資料庫，⽤來紀錄學⽣成績與班級資訊，內容如下
 
-![](./DB.png)
+![248631679-824b5de6-680f-41bd-967c-02bc8b0f3f6c](https://github.com/ericyan0311/test/assets/77430166/8e614ead-4e63-4b11-8735-689643c2fcaf)
+
 
 - 請寫出找出分數排名第⼆名學⽣所在的班級的 SQL 描述句
 
